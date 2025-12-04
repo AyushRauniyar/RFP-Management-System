@@ -3,7 +3,7 @@
 An intelligent system that automates the complete RFP workflow - from natural language creation to AI-powered proposal evaluation. Features automatic email monitoring, multi-format document extraction (PDF, Word, Excel, Images), and intelligent vendor comparison.
 
 ## 📹 Demo Video
-**[→ Watch the demo here](your-video-link-here)**
+**[→ Watch the demo here](https://www.loom.com/share/ab12e9b252cf498eb0bd1aa8c80a739d)**
 
 ## ✨ Key Features
 - **Natural Language RFP Creation**: Describe needs in plain English, AI structures the RFP
